@@ -1,5 +1,4 @@
-# anti-sleep-glasses
-Drowsiness detection smart glasses using Arduino Nano and Eye Blink Sensor
+
 # Anti Sleep Glasses 👓
 
 Smart wearable glasses that detect driver drowsiness using an eye blink sensor and alert the user using a buzzer and vibration motor.
@@ -11,17 +10,6 @@ Smart wearable glasses that detect driver drowsiness using an eye blink sensor a
 Drowsy driving is a major cause of road accidents. This project introduces Anti Sleep Glasses that monitor eye blinking patterns using sensors and a microcontroller.
 
 When the eyes remain closed for more than 3 seconds, the system activates an alert mechanism to wake the user.
-
----
-
-## Components Used
-
-• Arduino Nano  
-• Eye Blink Sensor (IR sensor)  
-• Buzzer  
-• Vibration Motor  
-• 9V Battery  
-• Switch
 
 ---
 
@@ -76,11 +64,12 @@ When the eyes remain closed for more than 3 seconds, the system activates an ale
 
 ---
 
-## Documentation
+## Project Report
 
-Project report available here:
+The detailed documentation of this project is available in the repository.
 
-docs/antisleep_glasses_report_.pdf
+📄 **Project Report:**  
+[Anti Sleep Glasses Project Report](docs/antisleep_glasses_report_.pdf)
 
 ---
 
