@@ -37,7 +37,24 @@ When the eyes remain closed for more than 3 seconds, the system activates an ale
 
 ## Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/block_diagram.jpeg)
+
+## Components
+
+### Arduino Nano
+![Arduino Nano](images/arduino_nano.jpeg)
+
+### Eye Blink Sensor
+![Eye Blink Sensor](images/eyeblink_sensor.jpeg)
+
+### Buzzer
+![Buzzer](images/buzzer.jpeg)
+
+### Power Supply
+![Power Supply](images/power_supply.jpeg)
+
+### Switch
+![Switch](images/switch_image.jpeg)
 
 ---
 
