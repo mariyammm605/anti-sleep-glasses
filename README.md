@@ -80,7 +80,7 @@ When the eyes remain closed for more than 3 seconds, the system activates an ale
 
 Project report available here:
 
-docs/Antisleep glasses_report_.pdf
+docs/antisleep_glasses_report_.pdf
 
 ---
 
