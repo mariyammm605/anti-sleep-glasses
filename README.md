@@ -74,6 +74,6 @@ The detailed documentation of this project is available in the repository.
 ---
 
 ## Contributors
-Mariyam Shaji Ambooken
-Gayathri Rajesh  
+Mariyam Shaji Ambooken 
+Gayathri Rajesh
 Utsa Ghosh
